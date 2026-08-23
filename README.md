@@ -3,7 +3,7 @@
 <h3 align="center">Java Full Stack Developer | Spring Boot | React.js</h3>
 
 #  About Me:
-Java Full Stack Developer and recent B.Tech CSE graduate (CGPA: 8.37/10), passionate about building scalable web applications and solving real-world problems using modern Java-based technologies.
+Java Full Stack Developer and recent B.Tech CSE graduate (CGPA: 8.37/10), passionate about building scalable web applications and solving real-world problems using modern Java-based technologies.<br>
 🚀 Currently working as a Java Full Stack Intern @ Peakprosys Solutions, building full-stack apps with Java, Spring Boot, React.js, and MySQL<br>
 🔭 I'm currently working on RESTful APIs, ML-integrated platforms, and role-based secure web applications<br>
 🌱 I'm currently learning Docker & CI/CD basics (GitHub Actions)<br>
