@@ -4,23 +4,23 @@
 
 #  About Me:
 I'm a Java Full Stack Developer and recent B.Tech CSE graduate (CGPA 8.37/10) who enjoys 
-turning complex problems into clean, scalable web applications.
+turning complex problems into clean, scalable web applications.<br>
 Over the past year, I've worked hands-on with Spring Boot, React.js, MySQL, and Redis — 
 building everything from ML-powered prediction platforms to full ISO compliance systems 
-with role-based access control and JWT authentication.
-A few things I've built:
+with role-based access control and JWT authentication.<br>
+A few things I've built:<br>
 🔹 A College Prediction System that combines a Spring Boot + React.js stack with a 
    Random Forest ML model (scikit-learn) trained on 3,500+ historical cutoff records, 
-   serving CET-based admission predictions through 6 RESTful APIs
+   serving CET-based admission predictions through 6 RESTful APIs<br>
 🔹 An ISO Management System with JWT-secured, role-based access control, audit 
-   management, and a modular admin dashboard
+   management, and a modular admin dashboard<br>
 I'm currently interning as a Java Full Stack Developer at Peakprosys Solutions, where 
 I work on RESTful API design, database optimization, and Redis caching in an Agile 
-environment.
+environment.<br>
 I've solved 100+ DSA problems on LeetCode, and I'm currently deepening my skills in 
-Docker and CI/CD (GitHub Actions).
+Docker and CI/CD (GitHub Actions).<br>
 Open to full-time Java Full Stack roles where I can keep building products that 
-actually solve problems. Let's connect!
+actually solve problems. Let's connect!<br>
 
 ##  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pratibha-chavan-95196b33b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pratibhachavan2003@gmail.com) 
