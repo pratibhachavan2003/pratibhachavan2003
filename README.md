@@ -3,12 +3,24 @@
 <h3 align="center">Java Developer | Spring Boot | React.js</h3>
 
 #  About Me:
-Java Full Stack Developer and recent B.Tech CSE graduate (CGPA: 8.37/10), passionate about building scalable web applications and solving real-world problems using modern Java-based technologies.<br>
-🚀 Currently working as a Java Full Stack Intern @ Peakprosys Solutions, building full-stack apps with Java, Spring Boot, React.js, and MySQL<br>
-🔭 I'm currently working on RESTful APIs, ML-integrated platforms, and role-based secure web applications<br>
-🌱 I'm currently learning Docker & CI/CD basics (GitHub Actions)<br>
-💬 Ask me about Java, Spring Boot, React.js, REST APIs, JWT Authentication, and Data Structures<br>
-📫 Reach me on LinkedIn or Email below
+I'm a Java Full Stack Developer and recent B.Tech CSE graduate (CGPA 8.37/10) who enjoys 
+turning complex problems into clean, scalable web applications.
+Over the past year, I've worked hands-on with Spring Boot, React.js, MySQL, and Redis — 
+building everything from ML-powered prediction platforms to full ISO compliance systems 
+with role-based access control and JWT authentication.
+A few things I've built:
+🔹 A College Prediction System that combines a Spring Boot + React.js stack with a 
+   Random Forest ML model (scikit-learn) trained on 3,500+ historical cutoff records, 
+   serving CET-based admission predictions through 6 RESTful APIs
+🔹 An ISO Management System with JWT-secured, role-based access control, audit 
+   management, and a modular admin dashboard
+I'm currently interning as a Java Full Stack Developer at Peakprosys Solutions, where 
+I work on RESTful API design, database optimization, and Redis caching in an Agile 
+environment.
+I've solved 100+ DSA problems on LeetCode, and I'm currently deepening my skills in 
+Docker and CI/CD (GitHub Actions).
+Open to full-time Java Full Stack roles where I can keep building products that 
+actually solve problems. Let's connect!
 
 ##  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pratibha-chavan-95196b33b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pratibhachavan2003@gmail.com) 
