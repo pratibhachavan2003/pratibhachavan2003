@@ -22,8 +22,7 @@ Docker and CI/CD (GitHub Actions).<br>
 Open to full-time Java Full Stack roles where I can keep building products that 
 actually solve problems. Let's connect!<br>
 
-##  Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pratibha-chavan-95196b33b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pratibhachavan2003@gmail.com) 
+
 
 # 💻 Tech Stack:
 **Languages:** Java, SQL, JavaScript, HTML5, CSS3<br>
