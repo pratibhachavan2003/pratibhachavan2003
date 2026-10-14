@@ -2,7 +2,7 @@
 
 <h3 align="center">Java Developer | Spring Boot | React.js</h3>
 
-#  About Me:
+#  About Me :
 I'm a Java Full Stack Developer and recent B.Tech CSE graduate (CGPA 8.37/10) who enjoys 
 turning complex problems into clean, scalable web applications.<br>
 Over the past year, I've worked hands-on with Spring Boot, React.js, MySQL, and Redis — 
@@ -24,15 +24,15 @@ actually solve problems. Let's connect!<br>
 
 
 
-# 💻 Tech Stack:
-**Languages:** Java, SQL, JavaScript, HTML5, CSS3<br>
-**Frameworks & Libraries:** Spring Boot, Spring MVC, Spring Data JPA, Spring Security, React.js, Material-UI<br>
-**Databases & Tools:** MySQL, Redis, Maven, Gradle, Git, GitHub, Postman<br>
-**Security:** JWT Authentication, Role-Based Access Control<br>
-**Testing & AI Tools:** JUnit, Swagger, GitHub Copilot<br>
-**ML (Project Experience):** Python, scikit-learn<br>
-**Methodologies:** Agile, Scrum<br>
-**Currently Learning:** Docker, CI/CD Basics (GitHub Actions)<br>
+# 💻 Tech Stack :
+**Languages :** Java, SQL, JavaScript, HTML5, CSS3<br>
+**Frameworks & Libraries :** Spring Boot, Spring MVC, Spring Data JPA, Spring Security, React.js, Material-UI<br>
+**Databases & Tools :** MySQL, Redis, Maven, Gradle, Git, GitHub, Postman<br>
+**Security :** JWT Authentication, Role-Based Access Control<br>
+**Testing & AI Tools :** JUnit, Swagger, GitHub Copilot<br>
+**ML (Project Experience) :** Python, scikit-learn<br>
+**Methodologies :** Agile, Scrum<br>
+**Currently Learning :** Docker, CI/CD Basics (GitHub Actions)<br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=pratibhachavan2003&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
